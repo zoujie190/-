@@ -1,0 +1,405 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <title>电子政务外网委办安全接入解决方案</title>
+  <meta name="keywords" content="锐捷网络, 电子政务外网, 外网城域网, 委办接入, 锐捷路由器, 锐捷网关, 网关认证, 核心路由器" />
+  <meta name="description" content="锐捷网络以路由器核心的委办安全接入解决方案助力各级地市区县建设“可管可控可用”的电子政务外网城域网。实现接入用户实名画像，隔离互联网不安全因素，符合等保三级要求。"
+  />
+  <link rel="shortcut icon" href="http://image.ruijie.com.cn/UIA/Images/favicon.ico" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+  <script>
+    var _gsq = _gsq || [];
+    (function () {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = (location.protocol == 'https:' ? 'https://ssl.' : 'http://static.') +
+        'gridsumdissector.com/js/Clients/GWD-002457-A76CDB/gs.js';
+      var firstScript = document.getElementsByTagName('script')[0];
+      firstScript.parentNode.insertBefore(s, firstScript);
+    })();
+    //**************** 百度统计代码 张月涛 2018-3-13**********
+    var _hmt = _hmt || [];
+    (function () {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?608ef9e4b8cd3b7746392c721f2ef555";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+    //********************************************
+  </script>
+</head>
+
+<body>
+  <!--头部导航开始-->
+  <!-- #include file="/HeaderUC_R.html" -->
+  <!--头部导航结束-->
+
+  <!--js脚本请放在此处-->
+  <script type="text/javascript" src="RJ-js/jquery.js"></script>
+  <script type="text/javascript" src="RJ-js/swiper.min.js"></script>
+  <script type="text/javascript" src="RJ-js/item.js"></script>
+
+  <!--正文开始-->
+  <!-- 自定义样式begin -->
+  <link rel="stylesheet" type="text/css" href="RJ-css/swiper.min.css" />
+  <link rel="stylesheet" type="text/css" href="RJ-css/css.css" />
+  <!-- 自定义样式end -->
+  <div class="t-main">
+    <div class="t-cont-item t-page1-bg-1">
+      <div class="t-content">
+        <img src="./RJ-img/t-sub-title1.png" />
+        <h3 class="t-sub-title"> 合规隔离互联网接入、审计溯源用户画像、安全好用易部署、已在多地部署验证，助力省地市区县建设政务“一张网” 
+        </h3>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-2">
+      <div class="t-content">
+        <h2 class="t-main-title">国字头文件密集下发，要求打破信息孤岛，各部门各单位业务统一接入电子政务外网</h2>
+        <div class="t-intro">
+          <ul class="t-item2">
+            <li>
+               <p class="t-des">国务院办公厅关于印发政务信息系统</p>
+               <p class="t-des">整合共享实施方案的通知</p>
+               <span class="t-num">国办发〔2017〕39号</span>
+               <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2017-05/18/content_5194971.htm">查看详情</a>
+            </li>
+            <li>
+               <p class="t-des">国务院关于加快推进全国一体化</p>
+               <p class="t-des">在线政务服务平台建设的指导意见</p>
+               <span class="t-num">国办发〔2018〕27号</span>
+               <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2018-07/31/content_5310797.htm">查看详情</a>
+            </li>
+            <li>
+               <p class="t-des">国务院办公厅关于印发进一步</p>
+               <p class="t-des">深化“互联网+政务服务”推进政务服务“一网、一门、一次”改革实施方案的通知</p>
+               <span class="t-num">国办发〔2018〕45号</span>
+               <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2018-06/22/content_5300516.htm">查看详情</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-3">
+      <div class="t-content">
+        <h2 class="t-main-title">在统一接入电子政务外网过程中，各方角色面临的问题与需求</h2>
+        <div class="t-intro">
+          <ul>
+            <li>
+              <div class="t-problem">
+                <h5>决策层</h5>
+                <p><img src="./RJ-img/t-item3-1.png" /></p>
+                <p>响应政策号召，快速完成外网改造升级，请各单位按期接入</p>                                
+              </div>
+              <div class="t-plan">
+                <p>解决方案</p>
+                <ol>
+                  <li class="page1-bg3-link1"><img src="./RJ-img/img1.png" /><p>隔离<br/>互联网</p></li>
+                  <li class="page1-bg3-link2"><img src="./RJ-img/img2.png" /><p>审计<br/>溯源</p></li>
+                </ol>
+              </div>
+              <div class="next-img"><img src="./RJ-img/step1.png" /></div>
+            </li>
+            <li>
+              <div class="t-problem">
+                <h5>信息中心</h5>
+                <p><img src="./RJ-img/t-item3-2.png" /></p>
+                <p>按照规范与指南完成网络设计；易在使用端推行，不要引起投诉</p>                                
+              </div>
+              <div class="t-plan">
+                <p>解决方案</p>
+                <ol>
+                  <li class="page1-bg3-link3"><img src="./RJ-img/img3.png" /><p>等级<br/>分权</p></li>
+                  <li class="page1-bg3-link2"><img src="./RJ-img/img1.png" /><p>审计<br/>溯源</p></li>
+                </ol>
+              </div>
+              <div class="next-img"><img src="./RJ-img/step2.png" /></div>
+            </li>
+            <li>
+              <div class="t-problem">
+                <h5>运营商/外网运维团队</h5>
+                <p><img src="./RJ-img/t-item3-3.png" /></p>
+                <p>升级建设中不要动现网配置，否则工程浩大，旷日持久</p>                                
+              </div>
+              <div class="t-plan">
+                <p>解决方案</p>
+                <ol>
+                  <li class="page1-bg3-link4"><img src="./RJ-img/img4.png" /><p>透明<br/>部署</p></li>
+                </ol>
+              </div>
+              <div class="next-img"><img src="./RJ-img/step3.png" /></div>
+            </li>
+            <li>
+              <div class="t-problem">
+                <h5>接入单位</h5>
+                <p><img src="./RJ-img/t-item3-4.png" /></p>
+                <p>接入外网后不要影响上网、办公等日常工作效率</p>                                
+              </div>
+              <div class="t-plan">
+                <p>解决方案</p>
+                <ol>
+                  <li class="page1-bg3-link1"><img src="./RJ-img/img1.png" /><p>隔离<br/>互联网</p></li>
+                </ol>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-4" id="t-page1-4">
+      <div class="t-content">
+        <h2 class="t-main-title">政务外网、互联网无感知隔离切换，保证外网内业务数据安全</h2>
+        <div class="t-intro">
+          <div class="video-img">
+            <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+            <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+            <a target="_blank" href=""  class="video-text">两网隔离访问，无感切换   ></a>
+          </div>
+          <div class="des-img"><img src="./RJ-img/des-img.png" /></div>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-5" id="t-page1-5">
+      <div class="t-content">
+        <h2 class="t-main-title">独特NAT穿越技术，支持整网终端实名入网后审计溯源</h2>
+        <p class="t-main-sub-title">“应当要求用户提供真实身份信息。用户不提供真实身份信息的，网络运营者不得为其提供相关服务。”<br />—— 《网络安全法》第二章第十四条</p>
+        <div class="t-intro">
+          <div class="t-tab-title">
+            <p class="first show">NAT穿越技术</p>
+            <p class="last">实名认证与日志留存</p>
+          </div>
+          <div class="t-tab-cont">
+            <div class="swiper-container-page1-5">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-5-1.png" />
+                      <a target="_blank" href="" class="des-link">RG-RACC 资源访问控制中心   ></a>
+                      <p class="des-txt">通过在外网管理中心或者委办局部署资源访问管理中心，可以实现对接入用户认证、访问日志溯源、资源域权限分配等管理</p>
+                    </div>
+                    <div class="video-img">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href=""  class="video-text">观看审计溯源演示   ></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-5-2.png" />
+                      <p class="des-txt">建立Overlay虚拟网络屏蔽底层物理网络NAT，构建一张电子政务外网业务专网，使留存的访问日志可以精确地与入网终端对应 </p>
+                    </div>
+                    <div class="video-img">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-lyqyyrj/racc/"  class="video-text">观看NAT穿越演示   ></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-6" id="t-page1-6">
+      <div class="t-content">
+        <h2 class="t-main-title">整个外网细粒度划分、精细化管理，安全管控不失灵活性</h2>
+        <div class="t-intro">
+          <div class="t-tab-title">
+            <p class="first show">NAT穿越技术</p>
+            <p class="last">实名认证与日志留存</p>
+          </div>
+          <p class="t-main-sub-title">各委办单位可以自行管理内部员工账号、资源访问权限更改与管理，使政务外网城域网管理更精细、灵活</p>
+          <div class="t-tab-cont">
+            <div class="swiper-container-page1-6">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-6-1.png" />
+                      <p class="des-txt des-txt1">整个电子政务外网采用分级方式，信息中心和委办单位各自采用RACC设备来管理用户、资源和授权</p>
+                      <p class="des-txt">委办单位的RACC设备接受信息中心的RACC管辖</p>
+                    </div>
+                    <div class="video-img">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href=""  class="video-text">观看分级分权管理演示   ></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-6-2.png" />
+                    </div>
+                    <div class="video-img">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href=""  class="video-text">观看分级分权管理演示   ></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-7" id="t-page1-7">
+      <div class="t-content">
+        <h2 class="t-main-title">透明桥接易部署，无需动现网配置，快速完成升级改造</h2>
+        <p class="t-main-sub-title">两大核心组件，构建整网，安全接入</p>
+        <div class="t-intro">
+          <div class="t-tab-title">
+            <p class="first show">安全接入认证网关 <span>面向被接入网络</span></p>
+            <p class="last">资源控制访问中心 <span>面向后台管理</span></p>
+          </div>
+          <div class="t-tab-cont">
+            <div class="swiper-container-page1-7">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-7-1.png" />
+                      <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-hxly/77x" class="des-link">RG-RSR-X系列路由器 ></a>
+                    </div>
+                    <div class="video-img">
+                      <p class="des-txt">新增安全接入认证网关</p>
+                      <p class="des-txt">网关放置在原有MCE和PE之间</p>
+                      <p class="des-txt">物理位置可放置在委办机房或者信息中心</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="video-img1">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href=""  class="video-text">观看RACC介绍   ></a>
+                    </div>
+                    <div class="des-img1">
+                      <img src="./RJ-img/item-7-2.png" />
+                      <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-lyqyyrj/racc" class="des-link">RG-RACC 资源访问管控中心   ></a>
+                      <div class="text-list">
+                        <p class="des-txt">接入外网的设备与用户认证溯源管理</p>
+                        <p class="des-txt">统一下发整网资源与策略</p>
+                        <p class="des-txt">提供各委办单位分级分权管理平台</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-8">
+      <div class="t-content">
+        <h2 class="t-main-title">成功案例</h2>
+        <div class="t-intro">
+          <ul>
+            <li>
+              <dl>
+                <dt><img src="./RJ-img/item-8-1.jpg" /></dt>
+                <dd>中标国家政务外网二期平台</dd>
+              </dl>
+              <a target="_blank" href="http://www.ruijie.com.cn/cp/xw-cp-ly/82182" class="page1-bg7-link">查看详情</a>
+            </li>
+            <li>
+              <dl>
+                <dt><img src="./RJ-img/item-8-2.jpg" /></dt>
+                <dd>江苏常州武进区 <br/>“分时隔离、安全合规”</dd>
+              </dl>
+              <a target="_blank" href="http://www.ruijie.com.cn/al/zhf/82115" class="page1-bg7-link">查看详情</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-9">
+      <div class="t-content">
+        <h2 class="t-main-title">明星产品</h2>
+        <div class="t-intro">
+          <div class="t-tab-cont">
+            <div class="swiper-container-page1-9">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <img src="./RJ-img/item-9-1.png" />
+                    <p>RG-RSR77-X</p>
+                    <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-hxly/77x" class="page1-bg9-link">查看详情</a>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <img src="./RJ-img/item-9-2.png" />
+                    <p>RG-RSR30-X</p>
+                    <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-hjly/rsr30x" class="page1-bg9-link">查看详情</a>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <img src="./RJ-img/item-9-3.png" />
+                    <p>RG-RSR20-X</p>
+                    <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-jrly/rsr20" class="page1-bg9-link">查看详情</a>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <img src="./RJ-img/item-9-4.png" />
+                    <p>RG-RSR50-X</p>
+                    <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-lyqyyrj/racc" class="page1-bg9-link">查看详情</a>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="t-cont-item t-page1-bg-10">
+      <div class="t-content">
+        <h2 class="t-main-title">留言区</h2>
+        <div class="t-intro">
+          <form action="/pro/special_message.ashx" method="post">
+            <div class="content-us-input clearfix">                              
+              <p>
+                <input type="text" placeholder="您的姓名" name="name" data-error="请输入您的姓名" data-val="true" data-val-required="*" maxlength="50" value="">
+              </p>
+              <p>
+                <input type="text" name="tel" placeholder="您的电话" data-error="请输入您的电话" data-val="true" data-val-required="*" maxlength="20" value="">
+              </p> 
+              <p>
+                <input type="text" name="organization" placeholder="您的单位" data-error="请输入您的单位" data-val="true" data-val-required="*" maxlength="100" value="">
+              </p>
+              <p style="width:96%;">
+                <textarea name="requirements" placeholder="若有问题或想查询更多资料，欢迎留言，我们将第一时间与您联系" data-error="若有问题或想查询更多资料，欢迎留言，我们将第一时间与您联系" data-val="true" data-val-required="*" maxlength="200" value=""></textarea>
+              </p>
+            </div>
+            <div class="content-us-btn">
+              <input class="tj-Btn" type="submit" value="提 交">
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--正文结束-->
+
+  <!--底部导航开始-->
+  <!-- #include file="/FooterUC_R.html" -->
+  <!-- 底部导航结束 -->
+
+  <script type='text/javascript'>
+    _gsq.push(["T", "GWD-002457", "trackEvent", "内容页", "专题", ""]);
+  </script>
+</body>
+
+</html>
