@@ -60,20 +60,17 @@
         <div class="t-intro">
           <ul class="t-item2">
             <li>
-               <p class="t-des">国务院办公厅关于印发政务信息系统</p>
-               <p class="t-des">整合共享实施方案的通知</p>
+               <p class="t-des">国务院办公厅关于印发政务信息系统整合共享实施方案的通知</p>
                <span class="t-num">国办发〔2017〕39号</span>
                <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2017-05/18/content_5194971.htm">查看详情</a>
             </li>
             <li>
-               <p class="t-des">国务院关于加快推进全国一体化</p>
-               <p class="t-des">在线政务服务平台建设的指导意见</p>
+               <p class="t-des">国务院关于加快推进全国一体化在线政务服务平台建设的指导意见</p>
                <span class="t-num">国办发〔2018〕27号</span>
                <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2018-07/31/content_5310797.htm">查看详情</a>
             </li>
             <li>
-               <p class="t-des">国务院办公厅关于印发进一步</p>
-               <p class="t-des">深化“互联网+政务服务”推进政务服务“一网、一门、一次”改革实施方案的通知</p>
+               <p class="t-des">国务院办公厅关于印发进一步深化“互联网+政务服务”推进政务服务“一网、一门、一次”改革实施方案的通知</p>
                <span class="t-num">国办发〔2018〕45号</span>
                <a target="_blank" class="t-btn" href="http://www.gov.cn/zhengce/content/2018-06/22/content_5300516.htm">查看详情</a>
             </li>
@@ -166,12 +163,25 @@
         <p class="t-main-sub-title">“应当要求用户提供真实身份信息。用户不提供真实身份信息的，网络运营者不得为其提供相关服务。”<br />—— 《网络安全法》第二章第十四条</p>
         <div class="t-intro">
           <div class="t-tab-title">
-            <p class="first show">NAT穿越技术</p>
-            <p class="last">实名认证与日志留存</p>
+            <p class="first">NAT穿越技术</p>
+            <p class="last show">实名认证与日志留存</p>
           </div>
           <div class="t-tab-cont">
             <div class="swiper-container-page1-5">
               <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="t-tab-cont-item">
+                    <div class="des-img">
+                      <img src="./RJ-img/item-5-2.png" />
+                      <p class="des-txt">建立Overlay虚拟网络屏蔽底层物理网络NAT，构建一张电子政务外网业务专网，使留存的访问日志可以精确地与入网终端对应 </p>
+                    </div>
+                    <div class="video-img">
+                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
+                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
+                      <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-lyqyyrj/racc/"  class="video-text">观看NAT穿越演示   ></a>
+                    </div>
+                  </div>
+                </div>
                 <div class="swiper-slide">
                   <div class="t-tab-cont-item">
                     <div class="des-img">
@@ -186,19 +196,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="swiper-slide">
-                  <div class="t-tab-cont-item">
-                    <div class="des-img">
-                      <img src="./RJ-img/item-5-2.png" />
-                      <p class="des-txt">建立Overlay虚拟网络屏蔽底层物理网络NAT，构建一张电子政务外网业务专网，使留存的访问日志可以精确地与入网终端对应 </p>
-                    </div>
-                    <div class="video-img">
-                      <iframe src="http://live.vhall.com/webinar/inituser/546764216?embed=video" scrolling="no" width="100%" height="290px"></iframe>
-                      <!-- <a target="_blank" href=""><img src="./RJ-img/video-img.png" /></a> -->
-                      <a target="_blank" href="http://www.ruijie.com.cn/cp/ly-lyqyyrj/racc/"  class="video-text">观看NAT穿越演示   ></a>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -210,8 +207,8 @@
         <h2 class="t-main-title">整个外网细粒度划分、精细化管理，安全管控不失灵活性</h2>
         <div class="t-intro">
           <div class="t-tab-title">
-            <p class="first show">NAT穿越技术</p>
-            <p class="last">实名认证与日志留存</p>
+            <p class="first show">分级管理</p>
+            <p class="last">分权管理</p>
           </div>
           <p class="t-main-sub-title">各委办单位可以自行管理内部员工账号、资源访问权限更改与管理，使政务外网城域网管理更精细、灵活</p>
           <div class="t-tab-cont">
@@ -372,15 +369,19 @@
             <div class="content-us-input clearfix">                              
               <p>
                 <input type="text" placeholder="您的姓名" name="name" data-error="请输入您的姓名" data-val="true" data-val-required="*" maxlength="50" value="">
+                <span class="tips js-error-message">错误提示</span>
               </p>
               <p>
                 <input type="text" name="tel" placeholder="您的电话" data-error="请输入您的电话" data-val="true" data-val-required="*" maxlength="20" value="">
+                <span class="tips js-error-message"></span>
               </p> 
               <p>
                 <input type="text" name="organization" placeholder="您的单位" data-error="请输入您的单位" data-val="true" data-val-required="*" maxlength="100" value="">
+                <span class="tips js-error-message"></span>
               </p>
               <p style="width:96%;">
                 <textarea name="requirements" placeholder="若有问题或想查询更多资料，欢迎留言，我们将第一时间与您联系" data-error="若有问题或想查询更多资料，欢迎留言，我们将第一时间与您联系" data-val="true" data-val-required="*" maxlength="200" value=""></textarea>
+                <span class="tips js-error-message"></span>
               </p>
             </div>
             <div class="content-us-btn">
@@ -398,7 +399,8 @@
   <!-- 底部导航结束 -->
 
   <script type='text/javascript'>
-    _gsq.push(["T", "GWD-002457", "trackEvent", "内容页", "专题", ""]);
+    _gsq.push(["T", "GWD-002457", "trackEvent", "内容页", "解决方案", ""]);
+    // onclick='_gsq.push(["T","GWD-002457","trackEvent","电子政务外网委办安全接入解决方案","电子政务外网委办安全接入解决方案","视频"]);'
   </script>
 </body>
 

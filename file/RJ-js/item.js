@@ -6,22 +6,22 @@ $(function () {
       disableOnInteraction: true
     },
     on: {
-		    slideChange: function () {
-		    	if (swiper_page1_5.activeIndex == 0) {
-		    		$('.t-page1-bg-5 .first').addClass('show').siblings('p').removeClass('show')
-		    	} else {
-		    		$('.t-page1-bg-5 .last').addClass('show').siblings('p').removeClass('show')
-		    	}
-		    }
-	  	}
+      slideChange: function () {
+        if (swiper_page1_5.activeIndex == 0) {
+          $('.t-page1-bg-5 .first').removeClass('show').siblings('p').addClass('show')
+        } else {
+          $('.t-page1-bg-5 .last').removeClass('show').siblings('p').addClass('show')
+        }
+      }
+    }
   })
   $('.t-page1-bg-5 .first').click(function () {
     swiper_page1_5.slideTo(0, 500, false)
-    $(this).addClass('show').siblings('p').removeClass('show')
+    $(this).removeClass('show').siblings('p').addClass('show')
   })
   $('.t-page1-bg-5 .last').click(function () {
     swiper_page1_5.slideTo(1, 500, false)
-    $(this).addClass('show').siblings('p').removeClass('show')
+    $(this).removeClass('show').siblings('p').addClass('show')
   })
 
   var swiper_page1_6 = new Swiper('.swiper-container-page1-6', {
@@ -31,14 +31,14 @@ $(function () {
       disableOnInteraction: true
     },
     on: {
-		    slideChange: function () {
-		    	if (swiper_page1_6.activeIndex == 0) {
-		    		$('.t-page1-bg-6 .first').addClass('show').siblings('p').removeClass('show')
-		    	} else {
-		    		$('.t-page1-bg-6 .last').addClass('show').siblings('p').removeClass('show')
-		    	}
-		    }
-	  	}
+      slideChange: function () {
+        if (swiper_page1_6.activeIndex == 0) {
+          $('.t-page1-bg-6 .first').addClass('show').siblings('p').removeClass('show')
+        } else {
+          $('.t-page1-bg-6 .last').addClass('show').siblings('p').removeClass('show')
+        }
+      }
+    }
   })
   $('.t-page1-bg-6 .first').click(function () {
     swiper_page1_6.slideTo(0, 500, false)
@@ -56,14 +56,14 @@ $(function () {
       disableOnInteraction: true
     },
     on: {
-		    slideChange: function () {
-		    	if (swiper_page1_7.activeIndex == 0) {
-		    		$('.t-page1-bg-7 .first').addClass('show').siblings('p').removeClass('show')
-		    	} else {
-		    		$('.t-page1-bg-7 .last').addClass('show').siblings('p').removeClass('show')
-		    	}
-		    }
-	  	}
+      slideChange: function () {
+        if (swiper_page1_7.activeIndex == 0) {
+          $('.t-page1-bg-7 .first').addClass('show').siblings('p').removeClass('show')
+        } else {
+          $('.t-page1-bg-7 .last').addClass('show').siblings('p').removeClass('show')
+        }
+      }
+    }
   })
   $('.t-page1-bg-7 .first').click(function () {
     swiper_page1_7.slideTo(0, 500, false)
